@@ -32,7 +32,9 @@ el branding es la base, es tu identidad: tus valores, tu tono y la percepción g
 
 El marketing es cómo comunicas esa identidad para obtener resultados.
 
-## relevante
+## conceptos mencionados
 
 - [Albert Einstein](https://es.wikipedia.org/wiki/Albert_Einstein)
 - [Teoría de la relatividad](https://es.wikipedia.org/wiki/Teor%C3%ADa_de_la_relatividad)
+- [Pirámide de Maslow](https://es.wikipedia.org/wiki/Pir%C3%A1mide_de_Maslow)
+- [Pavlov, Condicionamiento Operante](https://es.wikipedia.org/wiki/Condicionamiento_cl%C3%A1sico)
