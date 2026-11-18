@@ -11,6 +11,7 @@
 | 3 | riesgos percibidos y sesgos cognitivos | 20 |
 | 4 | customer journey | 20 |
 | 5 | estrategia de precios | 15 |
+| | **total** | **90** |
 
 ## IRIS
 
@@ -23,6 +24,7 @@
 | 3 | riesgos percibidos y sesgos cognitivos | 20 |
 | 4 | customer journey | 15 |
 | 5 | estrategia de precios | 15 |
+| | **total** | **85** |
 
 ## KAWCHO
 
@@ -35,6 +37,7 @@
 | 3 | riesgos percibidos y sesgos cognitivos | 20 |
 | 4 | customer journey | 15 |
 | 5 | estrategia de precios | 20 |
+| | **total** | **90** |
 
 ## Sip on
 
@@ -47,6 +50,7 @@
 | 3 | riesgos percibidos y sesgos cognitivos | 20 |
 | 4 | customer journey | 20 |
 | 5 | estrategia de precios | 20 |
+| | **total** | **95** |
 
 ## Entretiempos
 
@@ -59,6 +63,7 @@
 | 3 | riesgos percibidos y sesgos cognitivos | 15 |
 | 4 | customer journey | 15 |
 | 5 | estrategia de precios | 20 |
+| | **total** | **90** |
 
 ## Punt(o)
 
@@ -71,11 +76,11 @@
 | 3 | riesgos percibidos y sesgos cognitivos | 15 |
 | 4 | customer journey | 15 |
 | 5 | estrategia de precios | 20 |
+| | **total** | **90** |
 
 ## amano
 
-- integrantes: GABRIELA BRAVO, IGNACIA CANALES, MARTINA FERNÁNDEZ - ANTUÁN
-ITHAL, FRANCISCA PALMA, NICOLÁS VALDÉS, MAITE VILLARROEL
+- integrantes: GABRIELA BRAVO, IGNACIA CANALES, MARTINA FERNÁNDEZ - ANTUÁN ITHAL, FRANCISCA PALMA, NICOLÁS VALDÉS, MAITE VILLARROEL
 
 | # | item | puntaje |
 | - | - | - |
@@ -84,6 +89,7 @@ ITHAL, FRANCISCA PALMA, NICOLÁS VALDÉS, MAITE VILLARROEL
 | 3 | riesgos percibidos y sesgos cognitivos | 20 |
 | 4 | customer journey | 20 |
 | 5 | estrategia de precios | 15 |
+| | **total** | **90** |
 
 ## alamano
 
@@ -96,6 +102,7 @@ ITHAL, FRANCISCA PALMA, NICOLÁS VALDÉS, MAITE VILLARROEL
 | 3 | riesgos percibidos y sesgos cognitivos | 20 |
 | 4 | customer journey | 15 |
 | 5 | estrategia de precios | 20 |
+| | **total** | **90** |
 
 ## raya
 
@@ -108,6 +115,7 @@ ITHAL, FRANCISCA PALMA, NICOLÁS VALDÉS, MAITE VILLARROEL
 | 3 | riesgos percibidos y sesgos cognitivos | 20 |
 | 4 | customer journey | 15 |
 | 5 | estrategia de precios | 20 |
+| | **total** | **95** |
 
 ## bite+
 
@@ -120,6 +128,7 @@ ITHAL, FRANCISCA PALMA, NICOLÁS VALDÉS, MAITE VILLARROEL
 | 3 | riesgos percibidos y sesgos cognitivos | 20 |
 | 4 | customer journey | 15 |
 | 5 | estrategia de precios | 20 |
+| | **total** | **90** |
 
 ## 
 
@@ -132,6 +141,7 @@ ITHAL, FRANCISCA PALMA, NICOLÁS VALDÉS, MAITE VILLARROEL
 | 3 | riesgos percibidos y sesgos cognitivos |  |
 | 4 | customer journey |  |
 | 5 | estrategia de precios |  |
+| | **total** |  |
 
 ## 
 
@@ -144,3 +154,4 @@ ITHAL, FRANCISCA PALMA, NICOLÁS VALDÉS, MAITE VILLARROEL
 | 3 | riesgos percibidos y sesgos cognitivos |  |
 | 4 | customer journey |  |
 | 5 | estrategia de precios |  |
+| | **total** |  |
