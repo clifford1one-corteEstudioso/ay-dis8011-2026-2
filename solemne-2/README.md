@@ -121,6 +121,10 @@ ITHAL, FRANCISCA PALMA, NICOLÁS VALDÉS, MAITE VILLARROEL
 | 4 | customer journey | 15 |
 | 5 | estrategia de precios | 20 |
 
+--
+
+Queda para la próxima clase
+
 ## 
 
 - integrantes:
